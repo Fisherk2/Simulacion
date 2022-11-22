@@ -1,7 +1,7 @@
 /*
  * NOMBRE: Fisher
  * FECHA: 13/10/22
- * PROYECTO: TOPICOS AVANZADOS DE PROGRAMACION
+ * PROYECTO: SIMULACION
  */
 package batallaNaval;
 
